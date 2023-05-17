@@ -7,3 +7,4 @@
     - 监听history和hash
 - Unique Vistor
     - navigation.sendBeacon
+- Dom事件监听
